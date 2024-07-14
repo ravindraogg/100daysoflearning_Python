@@ -22,4 +22,13 @@ Today, I started my Python learning journey. Here's what I covered:
 - Understood the rules for naming variables.
 - Practiced using variables in simple Python scripts.
 
+## Day 2: Conditional Statements
+
+Today, I focused on conditional statements and wrote some programs. Here's what I learned:
+
+Conditional Statements
+- Used if, else, and elif statements to make decisions in Python programs.
+- Understood how to use comparison operators (<, >, ==, !=, <=, >=) in conditionals.
+- Practiced writing conditional statements to control the flow of my programs.
+
 # Stay tuned for more updates as I continue my learning journey!
