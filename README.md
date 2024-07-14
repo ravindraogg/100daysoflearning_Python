@@ -31,4 +31,10 @@ Conditional Statements
 - Understood how to use comparison operators (<, >, ==, !=, <=, >=) in conditionals.
 - Practiced writing conditional statements to control the flow of my programs.
 
+### Example 1 
+Grade sorting using if, elif, else.
+- Condition_1 if marks has been awarded as 99 it gives output as A Grade.
+- Condition_2 if marks has been awarded as 54 it gives output as F Grade.
+- Condition_3 if marks has been awarded as 80 it gives output ad B Grade.
+
 # Stay tuned for more updates as I continue my learning journey!
