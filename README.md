@@ -37,4 +37,10 @@ Grade sorting using if, elif, else.
 - Condition_2 if marks has been awarded as 54 it gives output as F Grade.
 - Condition_3 if marks has been awarded as 80 it gives output ad B Grade.
 
+### Example 2 
+The program checks the following conditions:
+- If the age is between 20 and 60 (inclusive) and the gender is "M" (Male), the fee is 100.
+- If the age is between 20 and 60 (inclusive) and the gender is "F" (Female), the fee is 200.
+- If neither condition is met, the program prints "Not Applicable".
+
 # Stay tuned for more updates as I continue my learning journey!
