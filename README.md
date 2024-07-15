@@ -43,4 +43,28 @@ The program checks the following conditions:
 - If the age is between 20 and 60 (inclusive) and the gender is "F" (Female), the fee is 200.
 - If neither condition is met, the program prints "Not Applicable".
 
+## Day 3: Terenary operation
+
+### Topics Covered
+1. Single Line If / Ternary Operation
+2. Clever If Ternary Operation
+3. Operators
+
+---
+
+1. Single Line If / Ternary Operation
+
+The ternary operation in Python allows you to write a simple if-else statement in a single line.
+
+### Syntax
+<var> = <val1> if <condition> else <val2>
+
+2. Clever If Ternary Operation
+
+A clever way to use a ternary-like operation is by using tuple indexing. This is less common but can be useful in some cases.
+
+### Syntax
+<var> = (False_val, True_val)[<condition>]
+
+
 # Stay tuned for more updates as I continue my learning journey!
