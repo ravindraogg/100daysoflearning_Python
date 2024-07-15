@@ -50,7 +50,6 @@ The program checks the following conditions:
 2. Clever If Ternary Operation
 3. Operators
 
----
 
 1. Single Line If / Ternary Operation
 
