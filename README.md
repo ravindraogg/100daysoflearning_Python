@@ -65,5 +65,15 @@ A clever way to use a ternary-like operation is by using tuple indexing. This is
 ### Syntax
 <var> = (False_val, True_val)[<condition>]
 
+## Day 4: Pactice Question
+
+## Practice Questions
+
+### Question 1
+Write a program to input the user's first name and print its length.
+
+### Question 2
+Wite a program to find the occurance of '$' in an string. 
+
 
 # Stay tuned for more updates as I continue my learning journey!
