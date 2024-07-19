@@ -75,5 +75,41 @@ Write a program to input the user's first name and print its length.
 ### Question 2
 Wite a program to find the occurance of '$' in an string. 
 
+## Day 5: List & Tuples 
+
+### Topics Covered
+1. List
+2. Tuples
+3. Practice Questions
+
+### Learning Objectives
+- Understand and implement Python lists and tuples.
+
+### List 
+- A data structure in Python that is a mutable, or changeable, ordered sequence of elements.
+
+### Tuple 
+- A data structure in Python which is immutable, or unchangable, ordered sequence of element.
+
+### Practice Question
+
+- Question 1
+  Adding movie list from user!!
+
+        movie = []
+        movie.append(input("Enter first Movie Name: "))
+        movie.append(input("Enter Second Movie Name: "))
+        movie.append(input("Enter Third Movie Name: "))
+        print(movie)
+
+- Question 2 
+  1. Count the number of students with the "A" grade in the following tuple and store the tuple in a list and sort them from A to D:
+         tuple = ("C","B","A","A","C","D","A")
+         print(tuple.count("A"))
+     
+  2. Store the above tuple in a list and sort them from A to D
+         list1 = list(tuple)
+         list1.sort()
+         print(list1)
 
 # Stay tuned for more updates as I continue my learning journey!
