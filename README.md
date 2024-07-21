@@ -150,19 +150,19 @@ print(menu)
 ### Creating a set with various types of elements
 ````set1 = {1, 2, 5, "Hellow", "Noob", 3}````
 
-# Printing the set and its type
+### Printing the set and its type
 print(set1)
 print(type(set1))
 
-# Output
+### Output
 {1, 2, 3, 'Hellow', 5, 'Noob'}
 <class 'set'>
 
-# Sets store each duplicate value only once and are unordered
+### Sets store each duplicate value only once and are unordered
 set1.add(input("enter: "))
 print(set1)
 
-# Output
+### Output
 enter: 10
 {1, 2, 3, 5, 'Hellow', 'Noob', '10'}
 
