@@ -166,4 +166,57 @@ print(set1)
 enter: 10
 {1, 2, 3, 5, 'Hellow', 'Noob', '10'}
 
+# Day 8: Practice Question 
+
+### Question 1: Word Meanings in a Dictionary
+Store the meanings of words in a dictionary.
+
+```python
+# Code
+dic1 = {
+    "table": ["a piece of furniture", "list of facts & figures"],
+    "cat" : "a small animal"
+}
+ print(dic1)
+```
+
+## Output
+```
+{'table': ['a piece of furniture', 'list of facts & figures'], 'cat': 'a small animal'}
+```
+## Question 2: Counting Unique Subjects
+Given a list of subjects for students, calculate the number of unique subjects, which corresponds to the number of classrooms needed.
+
+```python
+# Code
+set1 = {"python", "C++", "Java", "Python", "JavaScript", "Java", "python", "Java", "C++", "C"}
+
+print(type(set1))
+print(len(set1))
+```
+
+## Output
+```
+<class 'set'>
+6
+```
+
+## Question 3: Input Subjects and Marks
+Input subjects and marks, storing them in a dictionary.
+```
+# Code
+dic1 = {}
+
+subjects = input("Subject: ")
+marks = int(input("marks: "))
+dic1.update({subjects : marks})
+
+print(dic1)
+```
+## Example Output
+```
+Subject: english
+marks: 80
+{'english': 80}
+```
 # Stay tuned for more updates as I continue my learning journey!
